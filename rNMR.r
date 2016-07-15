@@ -1,11 +1,8 @@
-################################################################################
-################################################################################
-##                                                                            ##
-##                                                                            ##
-##    rNMR version 1.1.9, Tools for viewing and analyzing NMR spectra.        ##
-##    Copyright (C) 2015 Ian A. Lewis and Seth C. Schommer under GPL-3        ##
-##                                                                            ##
-##    This program is free software: you can redistribute it and/or modify    ##
+
+    rNMR version 1.1.9, Tools for viewing and analyzing NMR spectra.        
+    Copyright (C) 2015 Ian A. Lewis and Seth C. Schommer under GPL-3        
+
+      This program is free software: you can redistribute it and/or modify    
 ##    it under the terms of the GNU General Public License as published by    ##
 ##    the Free Software Foundation, either version 3 of the License, or       ##
 ##    any later version.                                                      ##
